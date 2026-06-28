@@ -1,6 +1,6 @@
 # Future CV - 홍희권
 
-> **Notice**: 본 이력서는 오픈소스소프트웨어실습 과제 제출을 위해 작성된 **가상의 미래 이력서(Future CV)**입니다. 기재된 경력 및 수상 내역은 내일 졸업을 앞둔 시점의 목표를 상상하여 작성되었습니다.
+> **Notice**: 본 이력서는 Future CV 로 가상의 이력서임을 밝힙니다.
 
 ## Contact Information
 * **Email**: [ghdgmlgns@naver.com](mailto:ghdgmlgns@naver.com)
